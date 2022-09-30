@@ -1,6 +1,6 @@
 # xmrig
 
-wget https://raw.githubusercontent.com/tetakashi/try-xmrig/main/monero.sh && chmod +x monero.sh && ./monero.sh
+wget https://raw.githubusercontent.com/monero-project/monero/master/utils/gpg_keys/fluffypony.asc
 
 # run
 
